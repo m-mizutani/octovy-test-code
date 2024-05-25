@@ -2,11 +2,13 @@ PATH
   remote: .
   specs:
     octovy-test (0.1.0)
+      rotp (~> 6.2.0)
 
 GEM
   remote: https://rubygems.org/
   specs:
     rake (10.5.0)
+    rotp (6.2.2)
 
 PLATFORMS
   ruby
