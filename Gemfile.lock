@@ -6,6 +6,7 @@ PATH
 GEM
   remote: https://rubygems.org/
   specs:
+    rake (10.5.0)
 
 PLATFORMS
   ruby
@@ -13,6 +14,7 @@ PLATFORMS
 DEPENDENCIES
   bundler (~> 1.17)
   octovy-test!
+  rake (~> 10.0)
 
 BUNDLED WITH
    1.17.2
